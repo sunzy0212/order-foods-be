@@ -1,0 +1,11 @@
+[
+    {
+        "restaurantName"    :   "姐妹餐馆",
+        "seats"             :   {
+            "A" :   30,
+            "B" :   20,
+            "C" :   10
+        },
+        "maxNumPerOrder"    :   30
+    }
+]
